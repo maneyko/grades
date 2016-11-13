@@ -1,46 +1,46 @@
 CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Primary Instructor,Average Grade,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W
 32896,AAS,100,Intro Asian American Studies,1A,LCD,120135,"Kwon, Soo Ah",,,,,,,,,,,,,,,
-37453,ACCY,200,Fundamentals of Accounting,ONL,ONL,120135,"Silhan, Peter A",3.18,3.0,3.0,3.0,6.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
-30565,ACCY,301,Atg Measurement & Disclosure,AE1,LCD,120135,"Asante Appiah, Bright",3.33,0.0,3.0,5.0,8.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+37453,ACCY,200,Fundamentals of Accounting,ONL,ONL,120135,"Silhan, Peter A",3.18,3,3,3,6,0,2,2,2,0,0,1,0,0,0
+30565,ACCY,301,Atg Measurement & Disclosure,AE1,LCD,120135,"Asante Appiah, Bright",3.33,0,3,5,8,5,1,0,1,0,0,0,0,0,0
 30026,ACCY,301,Atg Measurement & Disclosure,AE2,LCD,120135,"Klevsky, Elena",,,,,,,,,,,,,,,
-30034,ACCY,302,Decision Making for Atg,AE1,LCD,120135,"Finnegan, Thomas",3.3,0.0,3.0,1.0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30034,ACCY,302,Decision Making for Atg,AE1,LCD,120135,"Finnegan, Thomas",3.3,0,3,1,9,9,0,0,0,0,0,0,0,0,0
 30037,ACCY,302,Decision Making for Atg,AE2,LCD,120135,"Demere, Paul M",,,,,,,,,,,,,,,
-30048,ACCY,303,Atg Institutions and Reg,AE2,LCD,120135,"Grant, Stephanie M",3.29,3.0,3.0,6.0,3.0,4.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+30048,ACCY,303,Atg Institutions and Reg,AE2,LCD,120135,"Grant, Stephanie M",3.29,3,3,6,3,4,0,1,1,2,0,0,0,0,0
 30061,ACCY,304,Accounting Control Systems,AE1,LCD,120135,"Estep, Cassandra R",,,,,,,,,,,,,,,
 30066,ACCY,304,Accounting Control Systems,AE2,LCD,120135,"Crowley, Richard M",,,,,,,,,,,,,,,
-30080,ACCY,312,Principles of Taxation,A,LCD,120135,"Holder, Daniel E",3.39,2.0,15.0,1.0,1.0,10.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+30080,ACCY,312,Principles of Taxation,A,LCD,120135,"Holder, Daniel E",3.39,2,15,1,1,10,0,2,2,1,0,0,0,0,0
 30069,ACCY,405,Assurance and Attestation,AE1,LCD,120135,"Hillison, Sean M",,,,,,,,,,,,,,,
 30074,ACCY,405,Assurance and Attestation,AE2,LCD,120135,"Gordon, Shawn J",,,,,,,,,,,,,,,
 34354,ACCY,500,"Atg Measuremnt, Rpting & Cntrl",PT,LCD,120135,"Sandretto, Michael J",,,,,,,,,,,,,,,
-30083,ACCY,501,Accounting Analysis I,A,LCD,120135,"Ibrahim, Adel Nematallah",3.62,0.0,16.0,9.0,6.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30086,ACCY,501,Accounting Analysis I,B,LCD,120135,"Ibrahim, Adel Nematallah",3.52,0.0,11.0,7.0,8.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-32912,ACCY,501,Accounting Analysis I,C,LCD,120135,"Ibrahim, Adel Nematallah",3.54,0.0,9.0,11.0,10.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36386,ACCY,503,Managerial Accounting,CT,LCD,120135,"Carroll, Sandra",3.58,0.0,10.0,9.0,9.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-32291,ACCY,551,Corporate Income Taxation,CHI,LCD,120135,"Shaw, Jeffrey M",3.3,6.0,3.0,0.0,6.0,14.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-37076,ACCY,557,Accounting Periods & Methods,CHI,LCD,120135,"Aquino, Glenn D",3.57,0.0,20.0,0.0,0.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-37074,ACCY,559,Tax Policy,CH1,LCD,120135,"Giertz, J F",3.69,0.0,9.0,14.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37075,ACCY,559,IRS Procedures,CH2,LCD,120135,"Meier, Walter K",3.56,1.0,9.0,9.0,4.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-34580,ACCY,560,Information in Value Creation,B,LCD,120135,"Chandler, John S",3.81,4.0,16.0,14.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-34342,ACCY,560,Information in Value Creation,CHI,LCD,120135,"Chandler, John S",3.91,14.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30083,ACCY,501,Accounting Analysis I,A,LCD,120135,"Ibrahim, Adel Nematallah",3.62,0,16,9,6,6,1,0,0,0,0,0,0,0,0
+30086,ACCY,501,Accounting Analysis I,B,LCD,120135,"Ibrahim, Adel Nematallah",3.52,0,11,7,8,6,2,0,0,0,0,0,0,0,0
+32912,ACCY,501,Accounting Analysis I,C,LCD,120135,"Ibrahim, Adel Nematallah",3.54,0,9,11,10,5,1,0,0,0,0,0,0,0,0
+36386,ACCY,503,Managerial Accounting,CT,LCD,120135,"Carroll, Sandra",3.58,0,10,9,9,2,0,0,1,0,0,0,0,0,0
+32291,ACCY,551,Corporate Income Taxation,CHI,LCD,120135,"Shaw, Jeffrey M",3.3,6,3,0,6,14,0,0,0,0,0,1,0,0,0
+37076,ACCY,557,Accounting Periods & Methods,CHI,LCD,120135,"Aquino, Glenn D",3.57,0,20,0,0,7,0,0,3,0,0,0,0,0,0
+37074,ACCY,559,Tax Policy,CH1,LCD,120135,"Giertz, J F",3.69,0,9,14,7,0,0,0,0,0,0,0,0,0,0
+37075,ACCY,559,IRS Procedures,CH2,LCD,120135,"Meier, Walter K",3.56,1,9,9,4,5,2,0,0,0,0,0,0,0,0
+34580,ACCY,560,Information in Value Creation,B,LCD,120135,"Chandler, John S",3.81,4,16,14,2,1,0,0,0,0,0,0,0,0,0
+34342,ACCY,560,Information in Value Creation,CHI,LCD,120135,"Chandler, John S",3.91,14,10,4,2,0,0,0,0,0,0,0,0,0,0
 30104,ACCY,593,Special Research Problems,S,CNF,120135,"Peecher, Mark E",,,,,,,,,,,,,,,
-37030,ACE,100,Agr Cons and Resource Econ,ONL,ONL,120135,"Gundersen, Lisa C",3.15,0.0,9.0,1.0,7.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
-36921,ADV,310,Intro to Public Relations,ONL,ONL,120135,"Olson, Katrina M",3.59,7.0,24.0,14.0,9.0,7.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+37030,ACE,100,Agr Cons and Resource Econ,ONL,ONL,120135,"Gundersen, Lisa C",3.15,0,9,1,7,1,1,2,0,0,1,1,0,1,1
+36921,ADV,310,Intro to Public Relations,ONL,ONL,120135,"Olson, Katrina M",3.59,7,24,14,9,7,5,1,1,0,0,0,0,0,0
 36343,ADV,350,Writing for Public Relations,ONL,ONL,120135,"Friedman, Judith S",,,,,,,,,,,,,,,
 36501,ADV,399,Advertising Study Abroad,ROM,STA,120135,"DiBerardino, Linnea J",,,,,,,,,,,,,,,
-34793,ADV,410,Advanced Public Relations,A,ONL,120135,"Olson, Katrina M",3.68,1.0,12.0,4.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34793,ADV,410,Advanced Public Relations,A,ONL,120135,"Olson, Katrina M",3.68,1,12,4,4,1,2,0,0,0,0,0,0,0,0
 37229,AFRO,598,Res Sem in African-Am Studies,0,CNF,120135,"Noble, Safiya U",,,,,,,,,,,,,,,
-36961,AGCM,270,Sales Communications,ONL,ONL,120135,"Cupps-Miller, Heather A",3.24,0.0,17.0,0.0,1.0,6.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0
+36961,AGCM,270,Sales Communications,ONL,ONL,120135,"Cupps-Miller, Heather A",3.24,0,17,0,1,6,0,1,1,0,2,1,0,1,0
 37126,AGED,550,Advanced Program Delivery,GR,ONL,120135,"Clark, Richard W",,,,,,,,,,,,,,,
 37374,AIS,275,Am Indian and Indigenous Film,1,LCD,120135,"Teves, Stephanie N",,,,,,,,,,,,,,,
-30180,ANSC,110,Life With Animals and Biotech,1,LCD,120135,"Kesler, Darrel J",3.91,3.0,41.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30180,ANSC,110,Life With Animals and Biotech,1,LCD,120135,"Kesler, Darrel J",3.91,3,41,0,0,3,1,0,0,0,0,0,0,0,0
 36422,ANSC,207,Companion Animal Biology &Care,A,ONL,120135,"Brandt, Adam L",,,,,,,,,,,,,,,
 36908,ANSC,331,Biology of Reproduction,A,ONL,120135,"Nowak, Romana A",,,,,,,,,,,,,,,
 37669,ANSC,398,Undergraduate Research,A,CNF,120135,"Gaskins, H R",,,,,,,,,,,,,,,
-36011,ANSC,542,Applied Bioinformatics,A,LCD,120135,"Rodriguez-Zas, Sandra L",3.84,0.0,28.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0
-36296,ANTH,103,Anthro in a Changing World,ONL,ONL,120135,"O' Brien, Kathleen C",3.05,7.0,29.0,28.0,10.0,21.0,8.0,3.0,8.0,3.0,1.0,1.0,2.0,9.0,0.0
+36011,ANSC,542,Applied Bioinformatics,A,LCD,120135,"Rodriguez-Zas, Sandra L",3.84,0,28,2,1,0,0,0,2,0,0,0,0,0,1
+36296,ANTH,103,Anthro in a Changing World,ONL,ONL,120135,"O' Brien, Kathleen C",3.05,7,29,28,10,21,8,3,8,3,1,1,2,9,0
 37322,ANTH,105,World Archaeology,1,LCD,120135,"Bauer, Andrew",,,,,,,,,,,,,,,
-36297,ANTH,143,Biology of Human Behavior,ONL,ONL,120135,"Uhl, Natalie M",2.97,7.0,17.0,8.0,1.0,11.0,2.0,0.0,5.0,3.0,2.0,1.0,2.0,4.0,0.0
-35406,ANTH,180,The Archaeology of Death,1,LCD,120135,"Silverman, Helaine I",3.67,13.0,7.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+36297,ANTH,143,Biology of Human Behavior,ONL,ONL,120135,"Uhl, Natalie M",2.97,7,17,8,1,11,2,0,5,3,2,1,2,4,0
+35406,ANTH,180,The Archaeology of Death,1,LCD,120135,"Silverman, Helaine I",3.67,13,7,3,1,2,1,1,0,0,0,1,0,0,0
 35407,ANTH,411,Methods of Cultural Anth,1U,LCD,120135,"Gottlieb, Alma J",,,,,,,,,,,,,,,
 33737,ARAB,201,Elementary Standard Arabic I,A1,LCD,120135,"Hermes, Zainab A",,,,,,,,,,,,,,,
 33738,ARAB,202,Elementary Standard Arabic II,A1,LCD,120135,"Hermes, Zainab A",,,,,,,,,,,,,,,
@@ -53,8 +53,8 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 37415,ARCH,475,Arch Design & Development,E1,LAB,120135,"Greenlee, Camden L",,,,,,,,,,,,,,,
 37416,ARCH,475,Arch Design & Development,E2,LAB,120135,"Kim, Michael K",,,,,,,,,,,,,,,
 37421,ARCH,572,Design: Behavior & Environment,E0,LAB,120135,"Hinders, Kevin J",,,,,,,,,,,,,,,
-37432,ASTR,100,Introduction to Astronomy,ONL,ONL,120135,"Looney, Leslie W",2.88,5.0,8.0,8.0,5.0,1.0,2.0,3.0,1.0,2.0,0.0,4.0,2.0,2.0,0.0
-36300,ATMS,120,Severe and Hazardous Weather,ONL,ONL,120135,"Snodgrass, Eric R",3.77,147.0,85.0,16.0,8.0,9.0,1.0,3.0,5.0,1.0,2.0,1.0,1.0,4.0,0.0
+37432,ASTR,100,Introduction to Astronomy,ONL,ONL,120135,"Looney, Leslie W",2.88,5,8,8,5,1,2,3,1,2,0,4,2,2,0
+36300,ATMS,120,Severe and Hazardous Weather,ONL,ONL,120135,"Snodgrass, Eric R",3.77,147,85,16,8,9,1,3,5,1,2,1,1,4,0
 30300,AVI,101,Private Pilot I,AE1,LCD,120135,"Nusbaum, Daniel P",,,,,,,,,,,,,,,
 30593,AVI,120,Private Pilot II,AE1,LCD,120135,"Lucas, David J",,,,,,,,,,,,,,,
 30606,AVI,130,Commercial - Instrument I,AE1,LCD,120135,"Beck, Jeffrey C",,,,,,,,,,,,,,,
@@ -70,21 +70,21 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30675,AVI,380,Multiengine Land,FE,FL,120135,"Phillips, Sybil I",,,,,,,,,,,,,,,
 30677,AVI,381,Cockpit Resource Management,AE1,LCD,120135,"Talleur, Donald A",,,,,,,,,,,,,,,
 29884,BADM,300,The Legal Environment of Bus,A,LCD,120135,"Lansing, Paul",,,,,,,,,,,,,,,
-34350,BADM,300,The Legal Environment of Bus,B,LCD,120135,"Kindt, John W",3.95,15.0,19.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37386,BADM,300,The Legal Environment of Bus,OL,ONL,120135,"Marrs, Gregory A",3.65,6.0,8.0,6.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+34350,BADM,300,The Legal Environment of Bus,B,LCD,120135,"Kindt, John W",3.95,15,19,0,1,1,0,0,0,0,0,0,0,0,0
+37386,BADM,300,The Legal Environment of Bus,OL,ONL,120135,"Marrs, Gregory A",3.65,6,8,6,2,4,0,0,1,0,0,0,0,0,0
 29889,BADM,310,Mgmt and Organizational Beh,A,LCD,120135,"Prince, Nicholas R",,,,,,,,,,,,,,,
-36472,BADM,310,Mgmt and Organizational Beh,OL,ONL,120135,"Shabbir, Muhammad S",3.5,0.0,24.0,23.0,14.0,3.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
-36859,BADM,320,Principles of Marketing,A1,LCD,120135,"Ha, Younhee",3.87,25.0,5.0,3.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-36473,BADM,320,Principles of Marketing,OL,ONL,120135,"Shabbir, Muhammad S",3.53,0.0,44.0,28.0,6.0,8.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0
-36474,BADM,350,IT for Networked Organizations,OL,ONL,120135,"Sachdev, Vishal",3.52,2.0,13.0,13.0,6.0,5.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36475,BADM,380,International Business,OL,ONL,120135,"Bucheli, Marcelo",3.23,0.0,2.0,4.0,9.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-34221,BADM,551,Managing Intellectual Property,ADV,LCD,120135,"Bradley, Joe A",3.68,2.0,9.0,23.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30705,BADM,567,Process Management,A,LCD,120135,"Chhajed, Dilip",3.58,1.0,11.0,9.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-35684,BADM,567,Process Management,B,LCD,120135,"Chhajed, Dilip",3.47,1.0,9.0,10.0,8.0,7.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-36402,BADM,572,Stat for Mgt Decision Making,OL,ONL,120135,"Palekar, Udatta S",3.9,25.0,21.0,3.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-33608,BADM,573,Quant Analysis of Decisions,CT,LCD,120135,"Anand, Gopesh J",3.47,0.0,7.0,9.0,9.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-36861,BADM,582,Multinational Management,EM,LCD,120135,"Cheng, Joseph L",3.41,0.0,3.0,5.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-32848,BADM,590,Technology Practicum,ADT,LCD,120135,"Kurtz, Jeffrey M",3.96,0.0,44.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36472,BADM,310,Mgmt and Organizational Beh,OL,ONL,120135,"Shabbir, Muhammad S",3.5,0,24,23,14,3,1,2,1,1,0,1,1,0,0
+36859,BADM,320,Principles of Marketing,A1,LCD,120135,"Ha, Younhee",3.87,25,5,3,1,2,1,0,0,0,0,0,0,0,1
+36473,BADM,320,Principles of Marketing,OL,ONL,120135,"Shabbir, Muhammad S",3.53,0,44,28,6,8,2,0,2,0,0,0,0,4,0
+36474,BADM,350,IT for Networked Organizations,OL,ONL,120135,"Sachdev, Vishal",3.52,2,13,13,6,5,5,1,0,0,0,0,0,0,0
+36475,BADM,380,International Business,OL,ONL,120135,"Bucheli, Marcelo",3.23,0,2,4,9,2,3,1,1,0,0,0,0,0,0
+34221,BADM,551,Managing Intellectual Property,ADV,LCD,120135,"Bradley, Joe A",3.68,2,9,23,7,1,0,0,0,0,0,0,0,0,0
+30705,BADM,567,Process Management,A,LCD,120135,"Chhajed, Dilip",3.58,1,11,9,10,6,0,0,0,0,0,0,0,0,0
+35684,BADM,567,Process Management,B,LCD,120135,"Chhajed, Dilip",3.47,1,9,10,8,7,2,0,1,0,0,0,0,0,0
+36402,BADM,572,Stat for Mgt Decision Making,OL,ONL,120135,"Palekar, Udatta S",3.9,25,21,3,3,1,1,0,0,0,0,0,0,0,0
+33608,BADM,573,Quant Analysis of Decisions,CT,LCD,120135,"Anand, Gopesh J",3.47,0,7,9,9,6,0,0,1,0,0,0,0,0,0
+36861,BADM,582,Multinational Management,EM,LCD,120135,"Cheng, Joseph L",3.41,0,3,5,14,5,0,0,0,0,0,0,0,0,0
+32848,BADM,590,Technology Practicum,ADT,LCD,120135,"Kurtz, Jeffrey M",3.96,0,44,0,0,2,0,0,0,0,0,0,0,0,0
 36596,BADM,590,Business Practice Immersion,GRI,LCD,120135,"Chhajed, Dilip",,,,,,,,,,,,,,,
 30718,BTW,250,Principles Bus Comm,B,LCD,120135,"Hanson, Justin N",,,,,,,,,,,,,,,
 30712,BTW,250,Principles Bus Comm,D,LCD,120135,"McQuiston, Erin S",,,,,,,,,,,,,,,
@@ -95,36 +95,36 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30709,BTW,250,Principles Bus Comm,OL5,ONL,120135,"Schroeder, Erin A",,,,,,,,,,,,,,,
 37033,CEE,407,Airport Design,ONL,ONL,120135,"Herrin, Stanley M",,,,,,,,,,,,,,,
 36942,CEE,422,Construction Cost Analysis,ONL,ONL,120135,"Liu, Liang Y",,,,,,,,,,,,,,,
-30817,CEE,422,Construction Cost Analysis,UG3,LCD,120135,"Liu, Liang Y",3.39,0.0,8.0,9.0,5.0,3.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+30817,CEE,422,Construction Cost Analysis,UG3,LCD,120135,"Liu, Liang Y",3.39,0,8,9,5,3,5,0,2,0,0,0,0,0,0
 30819,CEE,469,Wood Structures,UG3,LCD,120135,"Gurfinkel, German",,,,,,,,,,,,,,,
 37439,CEE,498,Experimntl Mthds Strct & Mat,KUC,LBD,120135,"Kuchma, Daniel A",,,,,,,,,,,,,,,
-30822,CHEM,102,General Chemistry I,AL1,LEC,120135,"Hummel, Thomas J",2.71,3.0,14.0,1.0,8.0,7.0,6.0,8.0,8.0,5.0,3.0,2.0,0.0,3.0,0.0
-30828,CHEM,103,General Chemistry Lab I,11,LAB,120135,"Tu, Andy",3.7,4.0,22.0,2.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
-30825,CHEM,104,General Chemistry II,AL1,LEC,120135,"Ray, Christian R",2.58,2.0,5.0,3.0,7.0,12.0,7.0,8.0,9.0,7.0,0.0,0.0,0.0,4.0,1.0
-30829,CHEM,105,General Chemistry Lab II,21,LAB,120135,"Ray, Christian R",3.7,12.0,13.0,5.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
-33499,CHEM,232,Elementary Organic Chemistry I,A,ONL,120135,"Rafferty, Ryan",2.67,4.0,16.0,2.0,4.0,18.0,2.0,7.0,23.0,0.0,0.0,7.0,0.0,3.0,2.0
-30836,CHEM,233,Elementary Organic Chem Lab I,AL1,LEC,120135,"Rafferty, Ryan",2.82,0.0,10.0,0.0,3.0,15.0,1.0,3.0,14.0,0.0,0.0,0.0,0.0,1.0,0.0
+30822,CHEM,102,General Chemistry I,AL1,LEC,120135,"Hummel, Thomas J",2.71,3,14,1,8,7,6,8,8,5,3,2,0,3,0
+30828,CHEM,103,General Chemistry Lab I,11,LAB,120135,"Tu, Andy",3.7,4,22,2,1,3,0,0,1,0,0,0,0,1,0
+30825,CHEM,104,General Chemistry II,AL1,LEC,120135,"Ray, Christian R",2.58,2,5,3,7,12,7,8,9,7,0,0,0,4,1
+30829,CHEM,105,General Chemistry Lab II,21,LAB,120135,"Ray, Christian R",3.7,12,13,5,1,2,1,0,1,0,0,0,1,0,0
+33499,CHEM,232,Elementary Organic Chemistry I,A,ONL,120135,"Rafferty, Ryan",2.67,4,16,2,4,18,2,7,23,0,0,7,0,3,2
+30836,CHEM,233,Elementary Organic Chem Lab I,AL1,LEC,120135,"Rafferty, Ryan",2.82,0,10,0,3,15,1,3,14,0,0,0,0,1,0
 30838,CHEM,332,Elementary Organic Chem II,A,LCD,120135,"Hawkes, Daryl A",,,,,,,,,,,,,,,
-36301,CHEM,332,Elementary Organic Chem II,OL2,ONL,120135,"Hawkes, Daryl A",3.39,0.0,15.0,15.0,4.0,10.0,1.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-30840,CHEM,442,Physical Chemistry I,1,LEC,120135,"Nicely, Amy L",2.64,4.0,3.0,2.0,2.0,3.0,2.0,3.0,1.0,0.0,1.0,2.0,0.0,3.0,0.0
+36301,CHEM,332,Elementary Organic Chem II,OL2,ONL,120135,"Hawkes, Daryl A",3.39,0,15,15,4,10,1,2,2,2,0,0,0,0,0
+30840,CHEM,442,Physical Chemistry I,1,LEC,120135,"Nicely, Amy L",2.64,4,3,2,2,3,2,3,1,0,1,2,0,3,0
 30841,CHIN,201,Elementary Chinese I,2A,LCD,120135,"Wang, Mei",,,,,,,,,,,,,,,
 30842,CHIN,202,Elementary Chinese II,2B,LCD,120135,"Yao, Yun",,,,,,,,,,,,,,,
-36278,CHLH,100,Contemporary Health,ON2,ONL,120135,"Trask, Jeffrey T",3.17,1.0,6.0,16.0,10.0,11.0,7.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0
-30845,CHLH,101,Introduction to Public Health,A,LEC,120135,"Wang, Qian",2.96,0.0,6.0,4.0,3.0,3.0,4.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0
+36278,CHLH,100,Contemporary Health,ON2,ONL,120135,"Trask, Jeffrey T",3.17,1,6,16,10,11,7,1,3,1,1,1,0,0,1
+30845,CHLH,101,Introduction to Public Health,A,LEC,120135,"Wang, Qian",2.96,0,6,4,3,3,4,3,3,1,0,0,0,1,0
 29898,CHLH,206,Human Sexuality,A1,LCD,120135,"Darfour-Oduro, Sandra A",,,,,,,,,,,,,,,
-36274,CHLH,206,Human Sexuality,ON2,ONL,120135,"Rinaldi-Miles, Anna I",2.64,1.0,5.0,7.0,5.0,9.0,5.0,1.0,6.0,2.0,5.0,1.0,0.0,3.0,0.0
+36274,CHLH,206,Human Sexuality,ON2,ONL,120135,"Rinaldi-Miles, Anna I",2.64,1,5,7,5,9,5,1,6,2,5,1,0,3,0
 29896,CHLH,243,Drug Use and Abuse,A1,LCD,120135,"Lange, Dustin D",,,,,,,,,,,,,,,
-36276,CHLH,243,Drug Use and Abuse,ONL,ONL,120135,"Kersh, Renique",3.11,4.0,13.0,4.0,3.0,4.0,3.0,7.0,2.0,0.0,3.0,0.0,0.0,1.0,0.0
+36276,CHLH,243,Drug Use and Abuse,ONL,ONL,120135,"Kersh, Renique",3.11,4,13,4,3,4,3,7,2,0,3,0,0,1,0
 30854,CHLH,494,Special Topics,B,LCD,120135,"O'Rourke, Thomas W",,,,,,,,,,,,,,,
 37355,CHLH,587,MPH Practicum,A,LEC,120135,"Hann, Lena",,,,,,,,,,,,,,,
 37028,CHLH,589,Public Health Capstone Expnce,B,LEC,120135,"Hann, Lena",,,,,,,,,,,,,,,
-36379,CI,410,Middle School Instruction,A,ONL,120135,"Dean, Sheila R",3.7,0.0,13.0,14.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36379,CI,410,Middle School Instruction,A,ONL,120135,"Dean, Sheila R",3.7,0,13,14,4,0,2,0,0,0,0,0,0,0,0
 32573,CI,499,Ent Leadership in STEM Ed,CT,LCD,120135,"Price, Raymond L",,,,,,,,,,,,,,,
 37591,CI,499,"Genes, Proteins & Behavior",NR1,LCD,120135,"Hug, Barbara",,,,,,,,,,,,,,,
 37532,CI,560,Trends & Issues Language Arts,A,ONL,120135,"Cope, William",,,,,,,,,,,,,,,
 30753,CI,577,Clinical Practicum in Reading,A,LCD,120135,"McCarthey, Sarah J",,,,,,,,,,,,,,,
 37533,CI,590,Crit & Soc Just Persp on Pedag,A,ONL,120135,"Dixson, Adrienne D",,,,,,,,,,,,,,,
-37431,CLCV,102,Medical Terms-GRK & LAT Roots,O,ONL,120135,"McConnell, Ryan E",3.04,1.0,9.0,7.0,3.0,1.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0.0
+37431,CLCV,102,Medical Terms-GRK & LAT Roots,O,ONL,120135,"McConnell, Ryan E",3.04,1,9,7,3,1,4,0,4,0,0,0,0,3,0
 30857,CLCV,114,Introduction to Greek Culture,D1,LCD,120135,"Yona, Sergio",,,,,,,,,,,,,,,
 30859,CLCV,115,Mythology of Greece and Rome,C,LCD,120135,"Abosso, Daniel H",,,,,,,,,,,,,,,
 30861,CLCV,115,Mythology of Greece and Rome,D,LCD,120135,"McVey, Aine C",,,,,,,,,,,,,,,
@@ -132,19 +132,19 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 34795,CMN,101,Public Speaking,2,LCD,120135,"Irwin, Katie L",,,,,,,,,,,,,,,
 34798,CMN,102,Intro to Comm Theory & Res,1,LCD,120135,"Boone, George W",,,,,,,,,,,,,,,
 34799,CMN,102,Intro to Comm Theory & Res,2,LCD,120135,"Martinez, Jermaine",,,,,,,,,,,,,,,
-34800,CMN,211,Business Communication,1,LCD,120135,"Lammers, John C",2.96,0.0,4.0,4.0,5.0,3.0,3.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0
-34802,CMN,212,Intro to Organizational Comm,1,ONL,120135,"Atouba Ada, Yannick Lione",2.9,0.0,5.0,1.0,2.0,4.0,5.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0
+34800,CMN,211,Business Communication,1,LCD,120135,"Lammers, John C",2.96,0,4,4,5,3,3,0,0,2,2,0,1,0,0
+34802,CMN,212,Intro to Organizational Comm,1,ONL,120135,"Atouba Ada, Yannick Lione",2.9,0,5,1,2,4,5,2,4,0,1,0,0,0,0
 34803,CMN,220,Communicating Public Policy,1,LCD,120135,"Singh, Rohini S",,,,,,,,,,,,,,,
 34804,CMN,230,Intro to Interpersonal Comm,1,LCD,120135,"Roache, David J",,,,,,,,,,,,,,,
 34805,CMN,230,Intro to Interpersonal Comm,2,LCD,120135,"Lavoie, Mark W",,,,,,,,,,,,,,,
-34806,CMN,260,Intro to Health Communication,OL2,ONL,120135,"Klean Zwilling, Jillian M",2.4,0.0,2.0,5.0,2.0,2.0,2.0,1.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0
-36320,CMN,260,Intro to Health Communication,OL3,ONL,120135,"Pusateri, Kimberly B",2.7,0.0,1.0,5.0,1.0,1.0,5.0,2.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0
-37558,CMN,260,Intro to Health Communication,OL4,ONL,120135,"Varava, Kira A",2.56,0.0,0.0,5.0,1.0,5.0,3.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,0.0
-36318,CMN,260,Intro to Health Communication,ONL,ONL,120135,"Zupancic, Heather M",2.97,0.0,7.0,5.0,3.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0
-37340,CMN,336,Family Communication,1,ONL,120135,"Delaney, Amelia L",2.06,0.0,3.0,2.0,1.0,4.0,0.0,1.0,3.0,2.0,0.0,3.0,0.0,5.0,1.0
-37341,CMN,336,Family Communication,2,ONL,120135,"McAninch, Kelly",2.57,0.0,2.0,2.0,1.0,4.0,3.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0
+34806,CMN,260,Intro to Health Communication,OL2,ONL,120135,"Klean Zwilling, Jillian M",2.4,0,2,5,2,2,2,1,5,2,0,1,2,2,0
+36320,CMN,260,Intro to Health Communication,OL3,ONL,120135,"Pusateri, Kimberly B",2.7,0,1,5,1,1,5,2,3,2,0,0,1,0,0
+37558,CMN,260,Intro to Health Communication,OL4,ONL,120135,"Varava, Kira A",2.56,0,0,5,1,5,3,3,3,1,0,2,0,1,0
+36318,CMN,260,Intro to Health Communication,ONL,ONL,120135,"Zupancic, Heather M",2.97,0,7,5,3,0,2,3,2,1,0,0,0,2,0
+37340,CMN,336,Family Communication,1,ONL,120135,"Delaney, Amelia L",2.06,0,3,2,1,4,0,1,3,2,0,3,0,5,1
+37341,CMN,336,Family Communication,2,ONL,120135,"McAninch, Kelly",2.57,0,2,2,1,4,3,3,3,1,0,0,1,1,0
 37433,CMN,340,Visual Politics,1,LCD,120135,"Lowe, Marissa E",,,,,,,,,,,,,,,
-35518,CMN,396,Personal Relationships &Techno,2,LCD,120135,"Sharabi, Liesel",3.21,4.0,9.0,2.0,2.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0
+35518,CMN,396,Personal Relationships &Techno,2,LCD,120135,"Sharabi, Liesel",3.21,4,9,2,2,2,3,2,1,0,0,0,0,2,0
 36778,CMN,496,Procedural Rhetoric,UG1,LCD,120135,"O'Gorman, Thomas E",,,,,,,,,,,,,,,
 37002,CMN,506,Health Informatics,ONL,ONL,120135,"MacMullen, William J",,,,,,,,,,,,,,,
 34812,CMN,529,Measurement Comm Research,1,LCD,120135,"Knobloch, Leanne",,,,,,,,,,,,,,,
@@ -155,59 +155,59 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30864,CPSC,454,Plant Breeding Methods,A,LBD,120135,"Diers, Brian W",,,,,,,,,,,,,,,
 36984,CPSC,499,Org Chem for Plant Sciences,XM2,ONL,120135,"Briskin, Donald P",,,,,,,,,,,,,,,
 30758,CS,101,Intro Computing: Engrg & Sci,AY1,LBD,120135,"Gambill, Thomas N",,,,,,,,,,,,,,,
-30759,CS,101,Intro Computing: Engrg & Sci,AY2,LBD,120135,"Gambill, Thomas N",2.74,1.0,7.0,2.0,5.0,4.0,3.0,6.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0
-36797,CS,173,Discrete Structures,AD1,DIS,120135,"Evans, Graham C",2.87,4.0,8.0,7.0,8.0,6.0,11.0,2.0,5.0,5.0,0.0,1.0,1.0,2.0,1.0
-30770,CS,225,Data Structures,AL1,LEC,120135,"Massung, Sean A",2.8,3.0,12.0,4.0,6.0,7.0,5.0,5.0,1.0,4.0,3.0,2.0,2.0,2.0,2.0
-37387,CS,357,Numerical Methods I,M,LCD,120135,"Gambill, Thomas N",3.56,12.0,10.0,15.0,4.0,4.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-34776,CS,373,Theory of Computation,AL1,LEC,120135,"Di Febo, Joseph",3.32,5.0,16.0,3.0,3.0,4.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0
+30759,CS,101,Intro Computing: Engrg & Sci,AY2,LBD,120135,"Gambill, Thomas N",2.74,1,7,2,5,4,3,6,2,1,3,1,1,1,0
+36797,CS,173,Discrete Structures,AD1,DIS,120135,"Evans, Graham C",2.87,4,8,7,8,6,11,2,5,5,0,1,1,2,1
+30770,CS,225,Data Structures,AL1,LEC,120135,"Massung, Sean A",2.8,3,12,4,6,7,5,5,1,4,3,2,2,2,2
+37387,CS,357,Numerical Methods I,M,LCD,120135,"Gambill, Thomas N",3.56,12,10,15,4,4,1,3,1,1,0,0,0,0,1
+34776,CS,373,Theory of Computation,AL1,LEC,120135,"Di Febo, Joseph",3.32,5,16,3,3,4,2,2,3,3,1,0,0,0,0
 34501,CS,421,Progrmg Languages & Compilers,OL1,ONL,120135,"Mansky, William E",,,,,,,,,,,,,,,
-30792,CS,421,Progrmg Languages & Compilers,P3,LCD,120135,"Mansky, William E",3.09,5.0,5.0,4.0,3.0,9.0,0.0,1.0,4.0,0.0,1.0,1.0,0.0,1.0,2.0
+30792,CS,421,Progrmg Languages & Compilers,P3,LCD,120135,"Mansky, William E",3.09,5,5,4,3,9,0,1,4,0,1,1,0,1,2
 33105,CS,425,Distributed Systems,ONL,ONL,120135,"Mechitov, Kirill A",,,,,,,,,,,,,,,
 32959,CS,425,Distributed Systems,T3,LCD,120135,"Mechitov, Kirill A",,,,,,,,,,,,,,,
 36946,CS,528,Obj-Oriented Progrmg & Design,ONL,ONL,120135,"Zilles, Craig",,,,,,,,,,,,,,,
 36672,CS,528,Obj-Oriented Progrmg & Design,OPD,LCD,120135,"Zilles, Craig",,,,,,,,,,,,,,,
 32865,CW,104,Introductory Narrative Writing,D,LCD,120135,"Madonick, Michael D",,,,,,,,,,,,,,,
-36010,DANC,100,Intro to Contemporary Dance,OL1,ONL,120135,"Archibald, Renee E",3.15,4.0,7.0,10.0,5.0,6.0,6.0,1.0,4.0,0.0,0.0,0.0,0.0,2.0,0.0
+36010,DANC,100,Intro to Contemporary Dance,OL1,ONL,120135,"Archibald, Renee E",3.15,4,7,10,5,6,6,1,4,0,0,0,0,2,0
 36926,DANC,100,Composing w/ Movement & Video,OL2,ONL,120135,"Kelley, Kathleen M",,,,,,,,,,,,,,,
-29911,EALC,250,Intro to Japanese Culture,A,LCD,120135,"Ruppert, Brian D",3.64,2.0,7.0,6.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30390,ECE,205,Elec & Electronic Circuits,A,LEC,120135,"Roppo, Mike",1.99,0.0,1.0,1.0,2.0,4.0,1.0,1.0,6.0,2.0,3.0,3.0,0.0,3.0,0.0
+29911,EALC,250,Intro to Japanese Culture,A,LCD,120135,"Ruppert, Brian D",3.64,2,7,6,3,4,0,0,0,0,0,0,0,0,0
+30390,ECE,205,Elec & Electronic Circuits,A,LEC,120135,"Roppo, Mike",1.99,0,1,1,2,4,1,1,6,2,3,3,0,3,0
 30392,ECE,206,Elec & Electronic Circuits Lab,A1,LAB,120135,"Roppo, Mike",,,,,,,,,,,,,,,
 30395,ECE,206,Elec & Electronic Circuits Lab,A2,LAB,120135,"Roppo, Mike",,,,,,,,,,,,,,,
-30413,ECE,210,Analog Signal Processing,AL1,LEC,120135,"Alvarez, Juan",2.9,3.0,4.0,0.0,1.0,5.0,3.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,2.0
+30413,ECE,210,Analog Signal Processing,AL1,LEC,120135,"Alvarez, Juan",2.9,3,4,0,1,5,3,2,3,1,0,0,0,1,2
 30414,ECE,211,Analog Circuits & Systems,D,LEC,120135,"Alvarez, Juan",,,,,,,,,,,,,,,
-36226,ECE,310,Digital Signal Processing,A,LEC,120135,"Radhakrishnan, Chandrasek",3.52,0.0,13.0,3.0,4.0,5.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+36226,ECE,310,Digital Signal Processing,A,LEC,120135,"Radhakrishnan, Chandrasek",3.52,0,13,3,4,5,0,0,1,1,0,0,0,0,0
 36227,ECE,311,Digital Signal Processing Lab,A,LAB,120135,"Radhakrishnan, Chandrasek",,,,,,,,,,,,,,,
-33752,ECE,313,Probability with Engrg Applic,X,DIS,120135,"Zhu, Ji",2.8,2.0,5.0,5.0,4.0,6.0,4.0,7.0,4.0,5.0,0.0,2.0,0.0,0.0,1.0
-30415,ECE,329,Fields and Waves I,D,DIS,120135,"Kudeki, Erhan",3.22,10.0,12.0,4.0,3.0,4.0,9.0,2.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
-36229,ECE,342,Electronic Circuits,D,LEC,120135,"Schutt-Aine, Jose E",3.23,5.0,8.0,6.0,4.0,5.0,2.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+33752,ECE,313,Probability with Engrg Applic,X,DIS,120135,"Zhu, Ji",2.8,2,5,5,4,6,4,7,4,5,0,2,0,0,1
+30415,ECE,329,Fields and Waves I,D,DIS,120135,"Kudeki, Erhan",3.22,10,12,4,3,4,9,2,7,2,0,0,0,0,0
+36229,ECE,342,Electronic Circuits,D,LEC,120135,"Schutt-Aine, Jose E",3.23,5,8,6,4,5,2,1,3,4,0,0,0,0,0
 36230,ECE,343,Electronic Circuits Laboratory,F,LAB,120135,"Radhakrishnan, Chandrasek",,,,,,,,,,,,,,,
 36231,ECE,343,Electronic Circuits Laboratory,G,LAB,120135,"Radhakrishnan, Chandrasek",,,,,,,,,,,,,,,
-36232,ECE,350,Fields and Waves II,C,DIS,120135,"Schutt-Aine, Jose E",3.56,4.0,7.0,3.0,4.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-30473,ECE,444,IC Device Theory & Fabrication,AL1,LEC,120135,"Sievers, Dane J",3.36,2.0,9.0,2.0,1.0,7.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0
-30477,ECON,102,Microeconomic Principles,1A,LCD,120135,"DiIanni, Isaac",2.89,1.0,3.0,4.0,2.0,3.0,5.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0
-36304,ECON,102,Microeconomic Principles,ONL,ONL,120135,"Vazquez, Jose J",3.35,3.0,57.0,13.0,11.0,15.0,2.0,2.0,2.0,0.0,1.0,1.0,0.0,8.0,0.0
-29915,ECON,103,Macroeconomic Principles,1,LCD,120135,"Gottheil, Fred M",3.47,1.0,13.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+36232,ECE,350,Fields and Waves II,C,DIS,120135,"Schutt-Aine, Jose E",3.56,4,7,3,4,5,0,0,1,0,0,0,0,0,0
+30473,ECE,444,IC Device Theory & Fabrication,AL1,LEC,120135,"Sievers, Dane J",3.36,2,9,2,1,7,1,0,2,1,0,0,0,0,1
+30477,ECON,102,Microeconomic Principles,1A,LCD,120135,"DiIanni, Isaac",2.89,1,3,4,2,3,5,1,0,2,0,1,0,1,1
+36304,ECON,102,Microeconomic Principles,ONL,ONL,120135,"Vazquez, Jose J",3.35,3,57,13,11,15,2,2,2,0,1,1,0,8,0
+29915,ECON,103,Macroeconomic Principles,1,LCD,120135,"Gottheil, Fred M",3.47,1,13,3,3,2,1,1,0,0,1,1,0,0,0
 30480,ECON,103,Macroeconomic Principles,1B,LCD,120135,"Leite Estanisla, Luiz Fel",,,,,,,,,,,,,,,
-37312,ECON,103,Macroeconomic Principles,ONL,ONL,120135,"Petry, Joseph A",3.07,4.0,8.0,9.0,7.0,13.0,5.0,3.0,3.0,0.0,1.0,0.0,1.0,2.0,0.0
-30481,ECON,202,Economic Statistics I,AL3,LCD,120135,"Feng, Xue",3.0,2.0,6.0,4.0,2.0,4.0,1.0,2.0,3.0,0.0,0.0,1.0,2.0,0.0,1.0
-30483,ECON,203,Economic Statistics II,AL3,LCD,120135,"Heydari Bararde, Yashar",2.99,8.0,5.0,9.0,4.0,9.0,6.0,7.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0
-29918,ECON,302,Inter Microeconomic Theory,1,LCD,120135,"Arvin-Rad, Hassan",2.68,3.0,7.0,3.0,9.0,6.0,3.0,6.0,8.0,2.0,2.0,1.0,1.0,3.0,3.0
-37353,ECON,411,Public Sector Economics,UG3,LCD,120135,"Arvin-Rad, Hassan",2.6,1.0,2.0,2.0,1.0,4.0,1.0,0.0,7.0,0.0,1.0,2.0,0.0,0.0,0.0
+37312,ECON,103,Macroeconomic Principles,ONL,ONL,120135,"Petry, Joseph A",3.07,4,8,9,7,13,5,3,3,0,1,0,1,2,0
+30481,ECON,202,Economic Statistics I,AL3,LCD,120135,"Feng, Xue",3.0,2,6,4,2,4,1,2,3,0,0,1,2,0,1
+30483,ECON,203,Economic Statistics II,AL3,LCD,120135,"Heydari Bararde, Yashar",2.99,8,5,9,4,9,6,7,7,3,2,0,0,0,0
+29918,ECON,302,Inter Microeconomic Theory,1,LCD,120135,"Arvin-Rad, Hassan",2.68,3,7,3,9,6,3,6,8,2,2,1,1,3,3
+37353,ECON,411,Public Sector Economics,UG3,LCD,120135,"Arvin-Rad, Hassan",2.6,1,2,2,1,4,1,0,7,0,1,2,0,0,0
 36999,ECON,480,Industrial Comp and Monopoly,UG3,LCD,120135,"Toossi Ardakani, Ali",,,,,,,,,,,,,,,
-37452,ECON,490,Economics of Sports,DB,LCD,120135,"Bernotas, David W",3.74,0.0,24.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+37452,ECON,490,Economics of Sports,DB,LCD,120135,"Bernotas, David W",3.74,0,24,0,0,1,0,0,1,0,0,0,0,1,1
 30571,ECON,552,Computable G E Modeling,M,LCD,120135,"Rashid, Salim",,,,,,,,,,,,,,,
 37551,ECON,562,Adv Topics in Econ Theory II,1,LCD,120135,"Villamil, Anne",,,,,,,,,,,,,,,
 30568,ECON,563,Monetary Theory,M1,LCD,120135,"Sprenkle, Case M",,,,,,,,,,,,,,,
-30569,ECON,568,Macroeconomics for Business,X,LCD,120135,"Esfahani, Hadi S",3.81,7.0,14.0,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-33655,ECON,568,Macroeconomics for Business,XMB,LEC,120135,"Esfahani, Hadi S",3.77,3.0,31.0,11.0,4.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+30569,ECON,568,Macroeconomics for Business,X,LCD,120135,"Esfahani, Hadi S",3.81,7,14,6,3,2,0,0,0,0,0,0,0,0,0
+33655,ECON,568,Macroeconomics for Business,XMB,LEC,120135,"Esfahani, Hadi S",3.77,3,31,11,4,2,0,1,0,1,0,0,0,0,0
 30573,ECON,576,Time Series Analysis in Econ,M,LCD,120135,"Toossi Ardakani, Ali",,,,,,,,,,,,,,,
 37367,EIL,411,Intro to TESL Methodology,HB3,ONL,120135,"Bishop, Hugh",,,,,,,,,,,,,,,
 36860,EIL,460,Principles of Language Testing,FD3,ONL,120135,"Walters, Francis S",,,,,,,,,,,,,,,
 36771,EIL,486,Ling for Language Teachers,HB3,ONL,120135,"Bishop, Hugh",,,,,,,,,,,,,,,
 37151,EIL,486,Ling for Language Teachers,U3,ONL,120135,"Ingels, Sue A",,,,,,,,,,,,,,,
 30050,EIL,489,Theoretical Foundations of SLA,SI3,ONL,120135,"Ingels, Sue A",,,,,,,,,,,,,,,
-37086,ENG,198,IEFX Projects,PRJ,LCD,120135,"Wilcox, Bryan R",3.84,5.0,31.0,17.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37466,ENG,451,Success in the Workplace,SW1,ONL,120135,"Zehr, Sarah M",3.45,1.0,11.0,2.0,3.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
+37086,ENG,198,IEFX Projects,PRJ,LCD,120135,"Wilcox, Bryan R",3.84,5,31,17,4,1,0,0,0,0,0,0,0,0,0
+37466,ENG,451,Success in the Workplace,SW1,ONL,120135,"Zehr, Sarah M",3.45,1,11,2,3,1,0,1,2,0,1,0,0,0,0
 35614,ENG,460,Entrepreneurship for Engineers,ONL,ONL,120135,"Magelli, Paul J",,,,,,,,,,,,,,,
 35615,ENG,466,High-Tech Venture Marketing,ONL,ONL,120135,"Clifton, Rhiannon L",,,,,,,,,,,,,,,
 36222,ENG,471,Seminar Energy & Sustain Engrg,ONL,ONL,120135,"Abelson, John R",,,,,,,,,,,,,,,
@@ -223,7 +223,7 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30654,ENGL,455,Hitchcock,2U,LCD,120135,"Hansen, James A",,,,,,,,,,,,,,,
 29936,ENGL,461,Irish Myths and Legends,1G,LCD,120135,"Wright, Charles D",,,,,,,,,,,,,,,
 37324,ENGL,593,Professionalize Future Faculty,B,LCD,120135,"Hutner, Gordon",,,,,,,,,,,,,,,
-36323,ENSU,310,Renewable & Alternative Energy,ON2,ONL,120135,"Snodgrass, Eric R",3.63,6.0,13.0,4.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+36323,ENSU,310,Renewable & Alternative Energy,ON2,ONL,120135,"Snodgrass, Eric R",3.63,6,13,4,3,2,0,1,0,0,0,0,0,1,0
 31164,EOL,540,Intro to Edu Admin.,A,LEC,120135,"Sloat, Linda S",,,,,,,,,,,,,,,
 31165,EOL,541,Instructional Supervision,A,LEC,120135,"Hackmann, Donald",,,,,,,,,,,,,,,
 35652,EOL,548,Poli & Cultural Context of Ed,CHI,LCD,120135,"Hunter, Richard C",,,,,,,,,,,,,,,
@@ -232,11 +232,11 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30661,EOL,590,International Higher Education,IHE,ONL,120135,"Herman, Richard H",,,,,,,,,,,,,,,
 18097,EOL,590,Readings in Educational Policy,JDA,LCD,120135,"Anderson, James D",,,,,,,,,,,,,,,
 36356,EPS,201,Foundations of Education,ONL,ONL,120135,"Riddick, Shana N",,,,,,,,,,,,,,,
-36358,EPS,310,Race and Cultural Diversity,A,ONL,120135,"Anderson, James D",3.17,6.0,6.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+36358,EPS,310,Race and Cultural Diversity,A,ONL,120135,"Anderson, James D",3.17,6,6,1,0,6,0,0,0,0,0,0,0,3,0
 37140,EPS,310,Race and Cultural Diversity,B,ONL,120135,"Anderson, James D",,,,,,,,,,,,,,,
 36366,EPS,400,History of American Education,CS1,LCD,120135,"Span, Christopher",,,,,,,,,,,,,,,
-35676,EPS,415,Technology &Educational Reform,A,ONL,120135,"Mayo, Cris S",3.9,0.0,70.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-35166,EPS,420,Sociology of Education,BRB,LCD,120135,"Barnett, Bernice M",3.36,6.0,1.0,6.0,4.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+35676,EPS,415,Technology &Educational Reform,A,ONL,120135,"Mayo, Cris S",3.9,0,70,7,2,0,0,0,0,0,0,0,0,1,0
+35166,EPS,420,Sociology of Education,BRB,LCD,120135,"Barnett, Bernice M",3.36,6,1,6,4,5,3,0,0,0,0,0,0,1,1
 37138,EPS,590,Study Abroad Exper & Issues,A,ONL,120135,"Herrera, Linda",,,,,,,,,,,,,,,
 35953,EPS,590,Readings in Educational Policy,JDA,LCD,120135,"Anderson, James D",,,,,,,,,,,,,,,
 37137,EPS,590,International Higher Education,ONC,ONL,120135,"Herman, Richard H",,,,,,,,,,,,,,,
@@ -246,23 +246,23 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 32356,EPSY,490,Developments in Educ Psyc,OB,LCD,120135,"Rounds, James",,,,,,,,,,,,,,,
 37536,EPSY,556,Analysis of Adv Instruct Tech,A,ONL,120135,"Cope, William",,,,,,,,,,,,,,,
 37538,EPSY,590,Global Issues in Lrn & Pedago,A,ONL,120135,"Lo, Adrienne S",,,,,,,,,,,,,,,
-36940,ESE,320,"Water Planet, Water Crisis",A,ONL,120135,"Cole, Todd M",3.5,8.0,15.0,3.0,6.0,8.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+36940,ESE,320,"Water Planet, Water Crisis",A,ONL,120135,"Cole, Todd M",3.5,8,15,3,6,8,0,2,2,1,0,0,0,0,0
 30674,FIN,221,Corporate Finance,A,LCD,120135,"Agarwal, Charu",,,,,,,,,,,,,,,
-29939,FIN,221,Corporate Finance,B,LCD,120135,"Kim, Taehyun",3.18,2.0,9.0,0.0,3.0,5.0,0.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0
-29940,FIN,221,Corporate Finance,B1,ONL,120135,"Maurer, Martin",3.64,3.0,28.0,2.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
-36168,FIN,502,Quantitative Finance,QM1,LCD,120135,"Petry, Joseph A",3.72,4.0,27.0,12.0,5.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36169,FIN,502,Quantitative Finance,QM2,LCD,120135,"Petry, Joseph A",3.81,3.0,32.0,16.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30701,FIN,511,Investments,EMB,LCD,120135,"Weisbenner, Scott J",3.55,3.0,10.0,4.0,7.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30708,FIN,511,Investments,MSA,LCD,120135,"Peters, Stephen R",3.63,0.0,20.0,10.0,13.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-33636,FIN,580,Corp Finance and Valuation,CF1,LEC,120135,"Kannan, Srinivasan",3.78,1.0,39.0,6.0,5.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-33637,FIN,580,Corp Finance and Valuation,CF2,LEC,120135,"Kannan, Srinivasan",3.81,3.0,38.0,6.0,3.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36894,FIN,580,Advanced Corporate Finance,MSA,LCD,120135,"Peters, Stephen R",3.51,0.0,9.0,7.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29939,FIN,221,Corporate Finance,B,LCD,120135,"Kim, Taehyun",3.18,2,9,0,3,5,0,2,4,0,0,1,0,0,0
+29940,FIN,221,Corporate Finance,B1,ONL,120135,"Maurer, Martin",3.64,3,28,2,1,5,0,1,0,0,0,1,0,1,0
+36168,FIN,502,Quantitative Finance,QM1,LCD,120135,"Petry, Joseph A",3.72,4,27,12,5,5,1,1,0,0,0,0,0,0,0
+36169,FIN,502,Quantitative Finance,QM2,LCD,120135,"Petry, Joseph A",3.81,3,32,16,4,3,0,0,0,0,0,0,0,0,0
+30701,FIN,511,Investments,EMB,LCD,120135,"Weisbenner, Scott J",3.55,3,10,4,7,7,1,0,0,0,0,0,0,0,0
+30708,FIN,511,Investments,MSA,LCD,120135,"Peters, Stephen R",3.63,0,20,10,13,3,2,0,0,0,0,0,0,0,0
+33636,FIN,580,Corp Finance and Valuation,CF1,LEC,120135,"Kannan, Srinivasan",3.78,1,39,6,5,5,2,0,0,0,0,0,0,0,0
+33637,FIN,580,Corp Finance and Valuation,CF2,LEC,120135,"Kannan, Srinivasan",3.81,3,38,6,3,2,2,1,0,0,0,0,0,0,0
+36894,FIN,580,Advanced Corporate Finance,MSA,LCD,120135,"Peters, Stephen R",3.51,0,9,7,10,4,2,0,0,0,0,0,0,0,0
 30715,FR,102,Elementary French II,B,LCD,120135,"Zulato, Alessia",,,,,,,,,,,,,,,
 30717,FR,104,Intermediate French II,D,LCD,120135,"Laforet, Johnny A",,,,,,,,,,,,,,,
 31264,FSHN,340,Food Production and Service,AL1,LEC,120135,"Craft, Jill N",,,,,,,,,,,,,,,
 35661,FSHN,595,Fruit & Vegetable Processing,XM,ONL,120135,"Barth, Mary M",,,,,,,,,,,,,,,
 37301,GEOG,105,The Digital Earth,ONL,ONL,120135,"Robinson, Edward",,,,,,,,,,,,,,,
-36483,GEOL,100,Planet Earth,ONL,ONL,120135,"Herrstrom, Eileen A",2.95,1.0,10.0,3.0,1.0,3.0,0.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0
+36483,GEOL,100,Planet Earth,ONL,ONL,120135,"Herrstrom, Eileen A",2.95,1,10,3,1,3,0,1,2,1,2,1,1,1,2
 37296,GEOL,117,The Oceans,ONL,ONL,120135,"Hurst, Stephen D",,,,,,,,,,,,,,,
 36837,GEOL,118,Natural Disasters,ONL,ONL,120135,"Altaner, Stephen P",,,,,,,,,,,,,,,
 30761,GEOL,417,"Geol Field Methods, Western US",A,LBD,120135,"Stewart, Michael A",,,,,,,,,,,,,,,
@@ -277,18 +277,18 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 36307,GLBL,100,Intro to Global Studies,TW,ONL,120135,"Wedig, Timothy E",,,,,,,,,,,,,,,
 37417,GWS,100,Intro Gender & Women's Studies,AA,ONL,120135,"Cole, Cheryl L",,,,,,,,,,,,,,,
 36808,GWS,335,"Film, TV, and Gender",CC,LCD,120135,"Kozma, Alicia",,,,,,,,,,,,,,,
-30771,HDFS,105,Intro to Human Development,A,LCD,120135,"Brooks, Jan D",3.97,0.0,37.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36009,HDFS,105,Intro to Human Development,C,ONL,120135,"Bowers, Jill R",3.89,14.0,14.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30771,HDFS,105,Intro to Human Development,A,LCD,120135,"Brooks, Jan D",3.97,0,37,0,0,1,0,0,0,0,0,0,0,0,0
+36009,HDFS,105,Intro to Human Development,C,ONL,120135,"Bowers, Jill R",3.89,14,14,9,2,0,0,0,0,0,0,0,0,0,0
 37700,HDFS,199,Advanced Child Life Ser Skills,CL,LCD,120135,"Hernandez, Candace E",,,,,,,,,,,,,,,
-32823,HIST,100,Global History,A,LCD,120135,"Tallie, Tyrone H",3.92,12.0,8.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32823,HIST,100,Global History,A,LCD,120135,"Tallie, Tyrone H",3.92,12,8,2,2,0,0,0,0,0,0,0,0,0,0
 31143,HIST,171,US Hist to 1877,A,LCD,120135,"Bui, Long B",,,,,,,,,,,,,,,
 30789,HIST,172,US Hist Since 1877,A,LCD,120135,"Jordan, Jason C",,,,,,,,,,,,,,,
-36308,HIST,273,Illinois History,B,ONL,120135,"Greenstein, David E",3.03,0.0,1.0,16.0,5.0,11.0,6.0,2.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0
+36308,HIST,273,Illinois History,B,ONL,120135,"Greenstein, David E",3.03,0,1,16,5,11,6,2,3,2,0,0,0,1,0
 37304,HIST,348,Early Euro Absolut & Expansion,100,LCD,120135,"Koslofsky, Craig M",,,,,,,,,,,,,,,
 30803,HIST,354,Twentieth Century Europe,A,LCD,120135,"McKinley, Eric",,,,,,,,,,,,,,,
 37513,HRE,472,Learning Technologies,A,ONL,120135,"Huang, Wen-Hao",,,,,,,,,,,,,,,
 36479,HRE,530,Organization Development,A,ONL,120135,"Kuchinke, K P",,,,,,,,,,,,,,,
-37351,IB,150,Organismal & Evolutionary Biol,A,ONL,120135,"Clegg, Benjamin F",3.42,13.0,16.0,6.0,3.0,7.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0
+37351,IB,150,Organismal & Evolutionary Biol,A,ONL,120135,"Clegg, Benjamin F",3.42,13,16,6,3,7,1,0,4,1,0,0,0,2,0
 37352,IB,364,Bioinformatics & Human Genome,A,ONL,120135,"Sears, Staci L",,,,,,,,,,,,,,,
 36457,IB,533,Human Genome & Bioinformatics,ONL,ONL,120135,"Manaster, Joanne L",,,,,,,,,,,,,,,
 35151,INFO,303,Writing Across Media,A,LEC,120135,"Cavallaro, Alexandra",,,,,,,,,,,,,,,
@@ -305,14 +305,14 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30889,KIN,100,Conditioning and Wt. Control.,A2,LAB,120135,"Greene, Daniel R",,,,,,,,,,,,,,,
 30890,KIN,100,Conditioning and Wt. Control.,A3,LAB,120135,"Greenlee, Tina A",,,,,,,,,,,,,,,
 30891,KIN,100,Weight Training,C1,LAB,120135,"Park, Hyunwoo",,,,,,,,,,,,,,,
-30894,KIN,102,Bowling,E1,LAB,120135,"Gentry, Christopher R",3.78,6.0,9.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+30894,KIN,102,Bowling,E1,LAB,120135,"Gentry, Christopher R",3.78,6,9,3,1,1,0,0,1,0,0,0,0,0,0
 30895,KIN,102,Bowling,E2,LAB,120135,"Gentry, Christopher R",,,,,,,,,,,,,,,
 30896,KIN,102,Bowling,E3,LAB,120135,"Adamson, Brynn C",,,,,,,,,,,,,,,
 30898,KIN,109,Volleyball,A1,LAB,120135,"Greene, Daniel R",,,,,,,,,,,,,,,
 30899,KIN,109,Basketball,C1,LAB,120135,"Grissom, Evanielis U",,,,,,,,,,,,,,,
-36785,KIN,340,Soc & Psych of Phys Activity,A,LCD,120135,"Petruzzello, Steven J",3.74,0.0,9.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36785,KIN,340,Soc & Psych of Phys Activity,A,LCD,120135,"Petruzzello, Steven J",3.74,0,9,9,4,0,0,0,0,0,0,0,0,0,0
 37384,KIN,494,Case Study: The Endless Summer,SSU,LCD,120135,"Sydnor, Synthia",,,,,,,,,,,,,,,
-37436,LAST,170,Introduction to Latin America,DG,ONL,120135,"Goldman, Dara E",3.48,10.0,5.0,1.0,1.0,6.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+37436,LAST,170,Introduction to Latin America,DG,ONL,120135,"Goldman, Dara E",3.48,10,5,1,1,6,0,3,1,0,0,0,0,0,0
 37465,LAW,680,Professional Responsibility,A,LEC,120135,"Kordik, Ellen R",,,,,,,,,,,,,,,
 30915,LAW,682,Evidence,A,LCD,120135,"Beckett, J S",,,,,,,,,,,,,,,
 33309,LAW,682,Evidence,G,LCD,120135,"Beckett, J S",,,,,,,,,,,,,,,
@@ -326,17 +326,17 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 37185,LAW,798,Comp Analysis of Legal Prac,NG,LEC,120135,"Soares De Olive, Nuno M",,,,,,,,,,,,,,,
 36420,LAW,798,Comp Analysis of Legal Prac,SB,LEC,120135,"Benson, Sara R",,,,,,,,,,,,,,,
 36279,LER,100,Introduction to Labor Studies,ONL,ONL,120135,"Hawking, Carol J",,,,,,,,,,,,,,,
-37422,LIS,445,Info Books & Resources Youth,LE,ONL,120135,"Diekman, Linda M",3.92,6.0,13.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37422,LIS,445,Info Books & Resources Youth,LE,ONL,120135,"Diekman, Linda M",3.92,6,13,4,1,0,0,0,0,0,0,0,0,0,0
 37426,LIS,452,Foundations Info Proc in LIS,AU,LCD,120135,"Trainor, Kevin",,,,,,,,,,,,,,,
 33034,LIS,458,Instruction and Assistance Sys,LE,ONL,120135,"Wong, Melissa A",,,,,,,,,,,,,,,
 35574,LIS,490,Book Arts Seminar,BA,LCD,120135,"Nettles, Beatrice",,,,,,,,,,,,,,,
 33597,LIS,501,Info Org and Access,A,LCD,120135,"LaBarre, Kathryn A",,,,,,,,,,,,,,,
 30933,LIS,502,Libraries Info and Society,A,LCD,120135,"Weech, Terry",,,,,,,,,,,,,,,
-32276,LIS,502,Libraries Info and Society,LEA,ONL,120135,"Estabrook, Leigh S",3.57,0.0,6.0,17.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-32277,LIS,502,Libraries Info and Society,LEB,ONL,120135,"Estabrook, Leigh S",3.51,0.0,5.0,10.0,9.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-32278,LIS,504,Reference and Info Services,LE,ONL,120135,"Wong, Melissa A",3.92,12.0,14.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32276,LIS,502,Libraries Info and Society,LEA,ONL,120135,"Estabrook, Leigh S",3.57,0,6,17,6,3,0,1,0,0,0,0,0,0,1
+32277,LIS,502,Libraries Info and Society,LEB,ONL,120135,"Estabrook, Leigh S",3.51,0,5,10,9,3,1,0,0,0,0,0,0,0,1
+32278,LIS,504,Reference and Info Services,LE,ONL,120135,"Wong, Melissa A",3.92,12,14,4,2,0,0,0,0,0,0,0,0,0,0
 32279,LIS,505,Adm Mgt of Libs Info Centers,LE,ONL,120135,"Burger, Robert H",,,,,,,,,,,,,,,
-35586,LIS,507,Intr to Bibliographic Metadata,LEA,ONL,120135,"Roberto, Keller R",3.86,0.0,18.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35586,LIS,507,Intr to Bibliographic Metadata,LEA,ONL,120135,"Roberto, Keller R",3.86,0,18,2,0,1,1,0,0,0,0,0,0,0,0
 37494,LIS,507,Intr to Bibliographic Metadata,LEB,ONL,120135,"Quinn, Dennis P",,,,,,,,,,,,,,,
 37423,LIS,508,Collection Development,LE,ONL,120135,"Barnhart, Anne C",,,,,,,,,,,,,,,
 32280,LIS,510,Adult Public Services,LE,ONL,120135,"Bell, Lori A",,,,,,,,,,,,,,,
@@ -344,19 +344,19 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 36911,LIS,528,Adult Popular Literature,LE,ONL,120135,"Towner, Mary W",,,,,,,,,,,,,,,
 34224,LIS,548,Library Buildings,A,LCD,120135,"Schlipf, Frederick A",,,,,,,,,,,,,,,
 32283,LIS,578,Technical Services Functions,LE,ONL,120135,"Oberg, Steven J",,,,,,,,,,,,,,,
-37339,LIS,580,Rare Book and Spec Colls,A,LCD,120135,"Berger, Sidney E",3.67,4.0,13.0,2.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37339,LIS,580,Rare Book and Spec Colls,A,LCD,120135,"Berger, Sidney E",3.67,4,13,2,1,8,0,0,0,0,0,0,0,0,0
 37338,LIS,584,Archival Arrang and Descrip,A,LCD,120135,"Schwartz, Scott W",,,,,,,,,,,,,,,
 36052,LIS,590,"Bookbinding Hist, Princ, Prac",BBL,ONL,120135,"Huot, Andrew R",,,,,,,,,,,,,,,
 36053,LIS,590,Rare Book Cataloging,BCL,ONL,120135,"Olson, Patrick D",,,,,,,,,,,,,,,
-36886,LIS,590,Cataloging for School Libs,CBL,ONL,120135,"Tilley, Carol L",3.74,1.0,15.0,4.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+36886,LIS,590,Cataloging for School Libs,CBL,ONL,120135,"Tilley, Carol L",3.74,1,15,4,0,1,0,1,1,0,0,0,0,0,0
 30949,LIS,590,Library Gaming Programs,LG,LCD,120135,"Dubin, David S",,,,,,,,,,,,,,,
 35589,LIS,590,Legal Issues in LIS,LIL,ONL,120135,"Lipinski, Tomas A",,,,,,,,,,,,,,,
 35110,LIS,590,Law Librarianship,LLL,ONL,120135,"Davidson, Stephanie",,,,,,,,,,,,,,,
 33574,LIS,590,Letterpress Printing,LP,LCD,120135,"Kostell, Steve",,,,,,,,,,,,,,,
 33598,LIS,590,Web Design Construct Organizs,LW,LCD,120135,"Offenstein, Timothy L",,,,,,,,,,,,,,,
-33164,LIS,590,Web Design Construct Organizs,LW2,ONL,120135,"Kovacs, Diane K",3.94,20.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33164,LIS,590,Web Design Construct Organizs,LW2,ONL,120135,"Kovacs, Diane K",3.94,20,4,1,0,0,1,0,0,0,0,0,0,0,0
 32286,LIS,590,Web Design Construct Organizs,LWL,ONL,120135,"Kovacs, Diane K",,,,,,,,,,,,,,,
-34352,LIS,590,Project Management for LIS,MGL,ONL,120135,"Trainor, Kevin",3.95,6.0,14.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34352,LIS,590,Project Management for LIS,MGL,ONL,120135,"Trainor, Kevin",3.95,6,14,1,1,0,0,0,0,0,0,0,0,0,0
 33038,LIS,590,Global Con & Soc Jus Youth Lit,MYL,ONL,120135,"Lucht, Karla S",,,,,,,,,,,,,,,
 33562,LIS,590,Paper in the Scholarly World,PM,LCD,120135,"Berger, Sidney E",,,,,,,,,,,,,,,
 37424,LIS,590,Introduction to RDA,RDL,ONL,120135,"Bothmann, Robert L",,,,,,,,,,,,,,,
@@ -366,39 +366,39 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 34284,LIS,590,Ref Sources for Rare Books,SR,LCD,120135,"Silver, Joel B",,,,,,,,,,,,,,,
 37420,LLS,100,Intro Latina/Latino Studies,ONL,ONL,120135,"Velazquez, Mirelsie",,,,,,,,,,,,,,,
 36235,MACS,320,Popular Culture,A,LCD,120135,"Potter, Richard A",,,,,,,,,,,,,,,
-30963,MATH,220,Calculus,C1,LCD,120135,"Lansing, Jennifer L",2.47,1.0,2.0,3.0,3.0,5.0,1.0,2.0,0.0,2.0,2.0,3.0,0.0,2.0,0.0
-36762,MATH,220,Calculus,E1,LCD,120135,"Gupta, Neha",3.08,2.0,6.0,3.0,5.0,2.0,6.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
-33002,MATH,231,Calculus II,B1,LCD,120135,"Vellis, Vyron S",2.22,2.0,2.0,2.0,0.0,3.0,5.0,2.0,2.0,4.0,1.0,2.0,0.0,4.0,1.0
-35837,MATH,231,Calculus II,E1,LCD,120135,"Liang, Jian",2.6,3.0,3.0,0.0,3.0,5.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0
-33477,MATH,241,Calculus III,B1,LCD,120135,"Lakeland, Grant S",3.01,3.0,5.0,3.0,3.0,1.0,3.0,5.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0
-33478,MATH,241,Calculus III,D1,LCD,120135,"Liu, Hong",2.99,4.0,4.0,2.0,4.0,4.0,5.0,4.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0
+30963,MATH,220,Calculus,C1,LCD,120135,"Lansing, Jennifer L",2.47,1,2,3,3,5,1,2,0,2,2,3,0,2,0
+36762,MATH,220,Calculus,E1,LCD,120135,"Gupta, Neha",3.08,2,6,3,5,2,6,0,1,1,0,1,0,1,0
+33002,MATH,231,Calculus II,B1,LCD,120135,"Vellis, Vyron S",2.22,2,2,2,0,3,5,2,2,4,1,2,0,4,1
+35837,MATH,231,Calculus II,E1,LCD,120135,"Liang, Jian",2.6,3,3,0,3,5,2,2,1,1,1,3,1,1,0
+33477,MATH,241,Calculus III,B1,LCD,120135,"Lakeland, Grant S",3.01,3,5,3,3,1,3,5,2,1,0,0,0,1,1
+33478,MATH,241,Calculus III,D1,LCD,120135,"Liu, Hong",2.99,4,4,2,4,4,5,4,1,2,0,0,0,1,0
 35278,MATH,241,Calculus III,E1,LCD,120135,"Shen, Jiashun",,,,,,,,,,,,,,,
-34331,MATH,285,Intro Differential Equations,D1,LCD,120135,"Nikolaev, Igor G",2.56,9.0,1.0,2.0,3.0,3.0,6.0,2.0,3.0,3.0,1.0,3.0,0.0,4.0,1.0
-33003,MATH,347,Fundamental Mathematics,C1,LCD,120135,"Weichsel, Paul M",2.9,0.0,6.0,1.0,3.0,5.0,0.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,2.0
+34331,MATH,285,Intro Differential Equations,D1,LCD,120135,"Nikolaev, Igor G",2.56,9,1,2,3,3,6,2,3,3,1,3,0,4,1
+33003,MATH,347,Fundamental Mathematics,C1,LCD,120135,"Weichsel, Paul M",2.9,0,6,1,3,5,0,1,0,1,1,3,0,0,2
 37099,MATH,348,Fundamental Mathematics-ACP,ONL,ONL,120135,"Francis, George K",,,,,,,,,,,,,,,
 36390,MATH,402,Non Euclidean Geometry,ONL,ONL,120135,"Francis, George K",,,,,,,,,,,,,,,
 37101,MATH,403,Euclidean Geometry,ONL,ONL,120135,"Francis, George K",,,,,,,,,,,,,,,
-30978,MATH,415,Applied Linear Algebra,B4,LCD,120135,"Bergvelt, Maarten J",2.81,4.0,6.0,4.0,5.0,5.0,5.0,9.0,3.0,2.0,5.0,1.0,0.0,0.0,1.0
-36763,MATH,415,Applied Linear Algebra,E3,LCD,120135,"Muncaster, Robert G",2.77,2.0,12.0,5.0,3.0,10.0,5.0,7.0,6.0,3.0,5.0,0.0,1.0,2.0,0.0
+30978,MATH,415,Applied Linear Algebra,B4,LCD,120135,"Bergvelt, Maarten J",2.81,4,6,4,5,5,5,9,3,2,5,1,0,0,1
+36763,MATH,415,Applied Linear Algebra,E3,LCD,120135,"Muncaster, Robert G",2.77,2,12,5,3,10,5,7,6,3,5,0,1,2,0
 31858,MATH,415,Applied Linear Algebra,EGR,ONL,120135,"Carpenter, Bruce",,,,,,,,,,,,,,,
-30012,MATH,444,Elementary Real Analysis,D3,LCD,120135,"Zaharescu, Alexandru",3.66,2.0,15.0,3.0,10.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-30014,MATH,446,Applied Complex Variables,X3,LCD,120135,"Miles, Joseph B",3.08,1.0,6.0,3.0,3.0,3.0,5.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0
+30012,MATH,444,Elementary Real Analysis,D3,LCD,120135,"Zaharescu, Alexandru",3.66,2,15,3,10,2,0,0,1,0,0,0,0,0,0
+30014,MATH,446,Applied Complex Variables,X3,LCD,120135,"Miles, Joseph B",3.08,1,6,3,3,3,5,0,2,1,2,0,0,0,0
 30017,MATH,461,Probability Theory,B3,LCD,120135,"Stolarsky, Kenneth B",,,,,,,,,,,,,,,
 31859,MATH,461,Probability Theory,EGR,ONL,120135,"Carpenter, Bruce",,,,,,,,,,,,,,,
 35546,MATH,540,Real Analysis,C1,LCD,120135,"Loeb, Peter A",,,,,,,,,,,,,,,
-30095,MCB,100,Introductory Microbiology,A,LEC,120135,"Chapman, Kenneth",2.61,3.0,2.0,3.0,0.0,4.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,2.0,1.0
+30095,MCB,100,Introductory Microbiology,A,LEC,120135,"Chapman, Kenneth",2.61,3,2,3,0,4,2,2,3,3,1,0,0,2,1
 30024,MCB,150,Molec & Cellular Basis of Life,AD1,DIS,120135,"Good, Elizabeth A",,,,,,,,,,,,,,,
 30025,MCB,150,Molec & Cellular Basis of Life,AD2,DIS,120135,"Good, Elizabeth A",,,,,,,,,,,,,,,
-36346,MCB,150,Molec & Cellular Basis of Life,ONL,ONL,120135,"Mehrtens, Bradley G",2.59,1.0,5.0,7.0,4.0,6.0,2.0,4.0,8.0,6.0,3.0,1.0,0.0,2.0,0.0
+36346,MCB,150,Molec & Cellular Basis of Life,ONL,ONL,120135,"Mehrtens, Bradley G",2.59,1,5,7,4,6,2,4,8,6,3,1,0,2,0
 36347,MCB,215,Foundation in Mol & Cell Bio,ONL,ONL,120135,"Bellini, Michel",,,,,,,,,,,,,,,
-36047,MCB,244,Human Anatomy & Physiology I,AL1,LEC,120135,"Brown, Chester M",2.63,3.0,3.0,4.0,9.0,8.0,10.0,11.0,4.0,1.0,4.0,1.0,3.0,1.0,2.0
-36048,MCB,245,Human Anat & Physiol Lab I,A,LAB,120135,"Brown, Chester M",3.41,5.0,4.0,5.0,3.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-36049,MCB,245,Human Anat & Physiol Lab I,B,LAB,120135,"Brown, Chester M",3.38,1.0,4.0,9.0,2.0,2.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-30036,MCB,250,Molecular Genetics,AD1,DIS,120135,"Kirchner, Nicholas C",2.62,2.0,2.0,1.0,4.0,0.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1.0
-30038,MCB,250,Molecular Genetics,AD2,DIS,120135,"Kirchner, Nicholas C",2.8,5.0,1.0,0.0,4.0,4.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+36047,MCB,244,Human Anatomy & Physiology I,AL1,LEC,120135,"Brown, Chester M",2.63,3,3,4,9,8,10,11,4,1,4,1,3,1,2
+36048,MCB,245,Human Anat & Physiol Lab I,A,LAB,120135,"Brown, Chester M",3.41,5,4,5,3,0,1,0,4,0,0,0,0,0,0
+36049,MCB,245,Human Anat & Physiol Lab I,B,LAB,120135,"Brown, Chester M",3.38,1,4,9,2,2,3,1,0,1,0,0,0,0,0
+30036,MCB,250,Molecular Genetics,AD1,DIS,120135,"Kirchner, Nicholas C",2.62,2,2,1,4,0,3,3,2,1,1,0,0,2,1
+30038,MCB,250,Molecular Genetics,AD2,DIS,120135,"Kirchner, Nicholas C",2.8,5,1,0,4,4,2,1,0,1,1,1,1,1,0
 30040,MCB,250,Molecular Genetics,AD3,DIS,120135,"Kirchner, Nicholas C",,,,,,,,,,,,,,,
 30042,MCB,250,Molecular Genetics,AD4,DIS,120135,"Kirchner, Nicholas C",,,,,,,,,,,,,,,
-30952,ME,300,Thermodynamics,C,LEC,120135,"Rajasegar, Rajavasanth",2.7,4.0,2.0,2.0,0.0,4.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0
+30952,ME,300,Thermodynamics,C,LEC,120135,"Rajasegar, Rajavasanth",2.7,4,2,2,0,4,1,1,2,1,1,0,2,1,0
 30955,ME,340,Dynamics of Mechanical Systems,AL1,LEC,120135,"Lee, Seungho",,,,,,,,,,,,,,,
 30958,ME,350,Design for Manufacturability,AL1,LEC,120135,"Flachsbart, Bruce R",,,,,,,,,,,,,,,
 35813,ME,598,Tsinghua Internship,TEX,DIS,120135,"Johnson, Harley T",,,,,,,,,,,,,,,
@@ -408,7 +408,7 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 35493,MUS,408,Analysis of Musical Form,D,LCD,120135,"Taube, Heinrich K",,,,,,,,,,,,,,,
 30159,MUS,413,Music and Performance,A,LCD,120135,"Ziegel, Aaron B",,,,,,,,,,,,,,,
 37428,MUS,413,Music and Performance,B,LCD,120135,"Turino, Thomas R",,,,,,,,,,,,,,,
-37390,MUS,415,Music and Media,A,LCD,120135,"Magee, Gayle S",3.91,2.0,21.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37390,MUS,415,Music and Media,A,LCD,120135,"Magee, Gayle S",3.91,2,21,2,1,1,0,0,0,0,0,0,0,0,0
 36858,MUS,440,Marching Band Procedures,A,LBD,120135,"Houser, Barry L",,,,,,,,,,,,,,,
 33541,MUS,441,Contemp Issues in Inst Mus Ed,A,LCD,120135,"Nichols, Jeananne B",,,,,,,,,,,,,,,
 30168,MUS,447,Intermediate Music Ed Tech,A,LCD,120135,"Thibeault, Matthew D",,,,,,,,,,,,,,,
@@ -417,7 +417,7 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30167,MUS,533,Research in Music Education,A,LCD,120135,"Sweet, Bridget M",,,,,,,,,,,,,,,
 37517,MUS,540,Graduate Wind Band Conducting,B,LBD,120135,"Leyva, Jesse J",,,,,,,,,,,,,,,
 33546,MUS,545,Topics in Music Education,C,LCD,120135,"Moorhouse, Linda",,,,,,,,,,,,,,,
-37527,NRES,472,Environmental Psychology,XM3,ONL,120135,"Vining, Joanne",3.14,3.0,11.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0
+37527,NRES,472,Environmental Psychology,XM3,ONL,120135,"Vining, Joanne",3.14,3,11,0,0,2,0,0,2,0,0,0,0,3,0
 37509,NRES,499,Introduction to Silviculture,XM2,ONL,120135,"Woolery, Michael E",,,,,,,,,,,,,,,
 37528,NRES,598,Issues-Aquat Ecosystem Conserv,XM4,ONL,120135,"Taylor, Christopher A",,,,,,,,,,,,,,,
 37375,PATH,552,Diagnostic Cytology,A,LBD,120135,"Barger, Anne M",,,,,,,,,,,,,,,
@@ -427,40 +427,40 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 32948,PATH,559,Surgical Pathology,A,LBD,120135,"Wallig, Matthew A",,,,,,,,,,,,,,,
 37408,PHIL,202,Symbolic Logic,A,LCD,120135,"McCarthy, Timothy G",,,,,,,,,,,,,,,
 34769,PHIL,380,Sports & Philosophy,RC,LCD,120135,"Bowen, Adam J",,,,,,,,,,,,,,,
-30232,PHYS,101,College Physics: Mech & Heat,A,LEC,120135,"Shoaf, Curtis M",2.67,7.0,11.0,7.0,13.0,9.0,7.0,12.0,6.0,6.0,8.0,2.0,6.0,1.0,1.0
-30239,PHYS,102,College Physics: E&M & Modern,A,LEC,120135,"Carrubba, James G",2.74,5.0,6.0,5.0,6.0,12.0,7.0,5.0,8.0,2.0,5.0,2.0,2.0,0.0,2.0
-30254,PHYS,211,University Physics: Mechanics,A,LEC,120135,"Rosenblatt, Rebecca J",2.96,5.0,3.0,4.0,4.0,5.0,4.0,3.0,2.0,2.0,0.0,0.0,1.0,1.0,1.0
-30264,PHYS,212,University Physics: Elec & Mag,A,LEC,120135,"Hassani, Sadri D",2.48,1.0,10.0,5.0,7.0,3.0,9.0,11.0,4.0,6.0,4.0,6.0,4.0,1.0,3.0
-30275,PHYS,213,Univ Physics: Thermal Physics,A,LEC,120135,"Halfpap, Bradford L",2.99,9.0,10.0,8.0,5.0,10.0,5.0,2.0,2.0,6.0,0.0,0.0,2.0,3.0,1.0
-30282,PHYS,214,Univ Physics: Quantum Physics,A,LEC,120135,"Halfpap, Bradford L",3.0,7.0,5.0,11.0,7.0,7.0,7.0,4.0,2.0,3.0,0.0,0.0,2.0,2.0,0.0
+30232,PHYS,101,College Physics: Mech & Heat,A,LEC,120135,"Shoaf, Curtis M",2.67,7,11,7,13,9,7,12,6,6,8,2,6,1,1
+30239,PHYS,102,College Physics: E&M & Modern,A,LEC,120135,"Carrubba, James G",2.74,5,6,5,6,12,7,5,8,2,5,2,2,0,2
+30254,PHYS,211,University Physics: Mechanics,A,LEC,120135,"Rosenblatt, Rebecca J",2.96,5,3,4,4,5,4,3,2,2,0,0,1,1,1
+30264,PHYS,212,University Physics: Elec & Mag,A,LEC,120135,"Hassani, Sadri D",2.48,1,10,5,7,3,9,11,4,6,4,6,4,1,3
+30275,PHYS,213,Univ Physics: Thermal Physics,A,LEC,120135,"Halfpap, Bradford L",2.99,9,10,8,5,10,5,2,2,6,0,0,2,3,1
+30282,PHYS,214,Univ Physics: Quantum Physics,A,LEC,120135,"Halfpap, Bradford L",3.0,7,5,11,7,7,7,4,2,3,0,0,2,2,0
 30315,PS,101,Intro to US Gov & Pol,R,LCD,120135,"Francis, Katherine A",,,,,,,,,,,,,,,
-36326,PS,200,Foundations of Pol Sci,ON2,ONL,120135,"Vander Most, Neil G",2.32,0.0,1.0,2.0,3.0,5.0,5.0,5.0,3.0,1.0,1.0,1.0,1.0,3.0,0.0
+36326,PS,200,Foundations of Pol Sci,ON2,ONL,120135,"Vander Most, Neil G",2.32,0,1,2,3,5,5,5,3,1,1,1,1,3,0
 30320,PS,220,Intro to Public Policy,R,LCD,120135,"Ritchie, Melinda N",,,,,,,,,,,,,,,
 37588,PS,224,Politics of the National Parks,YST,ONL,120135,"Pahre, Robert D",,,,,,,,,,,,,,,
 36328,PS,225,Environmental Politics &Policy,ON2,ONL,120135,"Bowden, David F",,,,,,,,,,,,,,,
 33112,PS,240,Intro to Comp Politics,ABR,LCD,120135,"Estes, Kyle",,,,,,,,,,,,,,,
 34821,PS,373,Democratic Theory,A,LCD,120135,"Seitz, Steven T",,,,,,,,,,,,,,,
-34822,PS,394,Crisis Diplomacy,A,CNF,120135,"Vasquez, John A",3.39,0.0,6.0,2.0,5.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34822,PS,394,Crisis Diplomacy,A,CNF,120135,"Vasquez, John A",3.39,0,6,2,5,8,1,0,0,0,0,0,0,0,0
 34453,PS,491,Internship,WA,CNF,120135,"Dimock, Susan C",,,,,,,,,,,,,,,
 37058,PSM,555,PSM Internship,FCR,LCD,120135,"Engeseth, Nicki J",,,,,,,,,,,,,,,
 37062,PSM,555,PSM Internship,TCR,LCD,120135,"Harper, Joe G",,,,,,,,,,,,,,,
-31257,PSYC,100,Intro Psych,ONL,ONL,120135,"Toscano, Cheyenne M",2.65,4.0,4.0,4.0,11.0,10.0,12.0,5.0,11.0,5.0,1.0,2.0,0.0,3.0,1.0
-34254,PSYC,201,Intro to Social Psych,S1,LEC,120135,"Hernandez, Jorge I",3.56,1.0,13.0,2.0,7.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+31257,PSYC,100,Intro Psych,ONL,ONL,120135,"Toscano, Cheyenne M",2.65,4,4,4,11,10,12,5,11,5,1,2,0,3,1
+34254,PSYC,201,Intro to Social Psych,S1,LEC,120135,"Hernandez, Jorge I",3.56,1,13,2,7,2,1,1,1,0,0,0,0,0,0
 30330,PSYC,201,Intro to Social Psych,S2,LEC,120135,"Kim, Emily S",,,,,,,,,,,,,,,
 34255,PSYC,216,Child Psych,S1,LEC,120135,"Jin, Kyong Sun",,,,,,,,,,,,,,,
-30332,PSYC,224,Cognitive Psych,S2,LEC,120135,"Braverman, Michael B",2.43,0.0,5.0,0.0,0.0,11.0,0.0,0.0,6.0,0.0,0.0,3.0,0.0,3.0,0.0
+30332,PSYC,224,Cognitive Psych,S2,LEC,120135,"Braverman, Michael B",2.43,0,5,0,0,11,0,0,6,0,0,3,0,3,0
 34780,PSYC,230,Perception & Sensory Processes,S1,LEC,120135,"Yamani, Yusuke",,,,,,,,,,,,,,,
-30337,PSYC,238,Abnormal Psych,S2,LEC,120135,"Wang, Zhenni",2.94,0.0,2.0,5.0,2.0,6.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+30337,PSYC,238,Abnormal Psych,S2,LEC,120135,"Wang, Zhenni",2.94,0,2,5,2,6,2,2,1,1,0,0,0,1,0
 33500,PSYC,248,Learning and Memory,S2,LEC,120135,"McKinley, Geoffrey L",,,,,,,,,,,,,,,
 33558,PSYC,363,Developmental Psych Lab,AL1,LEC,120135,"Sugimura, Niwako",,,,,,,,,,,,,,,
 30354,RHET,105,Principles of Composition,X,LCD,120135,"Verderame, Michael C",,,,,,,,,,,,,,,
 37326,RHET,233,Principles of Composition,D,LCD,120135,"Stone, Jonathan W",,,,,,,,,,,,,,,
 29983,RLST,106,Archaeology and the Bible,A,LCD,120135,"Pitard, Wayne T",,,,,,,,,,,,,,,
-35079,RLST,110,World Religions,ADA,ONL,120135,"Raybeck, Nathan D",3.08,1.0,4.0,2.0,1.0,9.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-35081,RLST,110,World Religions,ADB,ONL,120135,"Raybeck, Nathan D",2.94,0.0,5.0,3.0,2.0,2.0,3.0,2.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0
-35083,RLST,110,World Religions,ADC,ONL,120135,"Raybeck, Nathan D",2.9,0.0,4.0,7.0,0.0,5.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,2.0,0.0
-36932,RST,100,Society and Leisure,ONL,ONL,120135,"Paden, Lori Kay",3.65,13.0,25.0,9.0,4.0,3.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
-36933,RST,130,Foundations of Sport Mgt,ONL,ONL,120135,"Hardin, Donald R",2.81,0.0,8.0,0.0,0.0,9.0,0.0,0.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0
+35079,RLST,110,World Religions,ADA,ONL,120135,"Raybeck, Nathan D",3.08,1,4,2,1,9,0,2,2,0,1,0,0,0,0
+35081,RLST,110,World Religions,ADB,ONL,120135,"Raybeck, Nathan D",2.94,0,5,3,2,2,3,2,1,2,0,0,0,1,0
+35083,RLST,110,World Religions,ADC,ONL,120135,"Raybeck, Nathan D",2.9,0,4,7,0,5,1,0,0,2,0,1,0,2,0
+36932,RST,100,Society and Leisure,ONL,ONL,120135,"Paden, Lori Kay",3.65,13,25,9,4,3,2,2,1,1,1,0,0,0,0
+36933,RST,130,Foundations of Sport Mgt,ONL,ONL,120135,"Hardin, Donald R",2.81,0,8,0,0,9,0,0,7,0,0,3,0,0,0
 37434,RST,393,Sport & Philosophy,RC,LCD,120135,"Bowen, Adam J",,,,,,,,,,,,,,,
 35808,RST,501,Theories & Concepts of Leisure,XM1,ONL,120135,"Stodolska, Monika",,,,,,,,,,,,,,,
 36185,RST,503,Adv Leisure Research Methods,XM,ONL,120135,"McDonald, Cary D",,,,,,,,,,,,,,,
@@ -483,24 +483,24 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 35116,SHS,579,Prof/Eth/Legal Issues AuD/SLP,LEC,LEC,120135,"Chambers, Lou",,,,,,,,,,,,,,,
 35916,SHS,593,Special Problems,AEP,LBD,120135,"Chambers, Ronny D",,,,,,,,,,,,,,,
 34569,SHS,593,Special Problems,C,LCD,120135,"Chambers, Ronny D",,,,,,,,,,,,,,,
-37476,SOC,100,Introduction to Sociology,AD1,ONL,120135,"Feely, Ashley C",3.76,0.0,14.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37476,SOC,100,Introduction to Sociology,AD1,ONL,120135,"Feely, Ashley C",3.76,0,14,2,4,2,0,0,0,0,0,0,0,0,0
 37477,SOC,100,Introduction to Sociology,AD2,ONL,120135,"Sattari, Negin",,,,,,,,,,,,,,,
-37478,SOC,100,Introduction to Sociology,AD3,ONL,120135,"Riopelle, Cameron",3.29,0.0,9.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-37479,SOC,100,Introduction to Sociology,AD4,ONL,120135,"Peach, Matthew",2.89,0.0,7.0,5.0,1.0,1.0,0.0,0.0,4.0,0.0,0.0,3.0,0.0,1.0,2.0
-34914,SOC,350,Technology and Society,1,LEC,120135,"Shoffstall, Grant W",3.75,0.0,19.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+37478,SOC,100,Introduction to Sociology,AD3,ONL,120135,"Riopelle, Cameron",3.29,0,9,2,2,1,3,0,4,0,0,0,0,0,0
+37479,SOC,100,Introduction to Sociology,AD4,ONL,120135,"Peach, Matthew",2.89,0,7,5,1,1,0,0,4,0,0,3,0,1,2
+34914,SOC,350,Technology and Society,1,LEC,120135,"Shoffstall, Grant W",3.75,0,19,0,0,4,0,0,1,0,0,0,0,0,0
 27292,SOC,400,Internships,ONL,ONL,120135,"Orozco Villican, Moises",,,,,,,,,,,,,,,
 34266,SOC,480,Methods of Field Research,AZ,LEC,120135,"Zerai, Assata",,,,,,,,,,,,,,,
 34520,SOC,583,Qualitative Research Methods,AZ,LEC,120135,"Zerai, Assata",,,,,,,,,,,,,,,
 37402,SOCW,330,International Perspectives,B,LEC,120135,"Lindsey, Brenda C",,,,,,,,,,,,,,,
 36936,SOCW,380,Internatioal SW & Development,BJL,ONL,120135,"Lough, Benjamin J",,,,,,,,,,,,,,,
-30376,SOCW,400,Generalist SW Practice Methods,B,LCD,120135,"Bragg, Mary",3.52,0.0,5.0,12.0,4.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-30378,SOCW,400,Generalist SW Practice Methods,C,LCD,120135,"Casey, Anne",3.81,0.0,14.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30379,SOCW,400,Generalist SW Practice Methods,D,LCD,120135,"White-Gibson, Nancy L",3.96,0.0,23.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37404,SOCW,451,HBSE I: Human Development,B,LCD,120135,"Paceley, Megan S",3.76,0.0,24.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-37405,SOCW,451,HBSE I: Human Development,C,LCD,120135,"Liao, Minli",3.88,2.0,15.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30376,SOCW,400,Generalist SW Practice Methods,B,LCD,120135,"Bragg, Mary",3.52,0,5,12,4,1,1,0,0,0,1,0,0,0,0
+30378,SOCW,400,Generalist SW Practice Methods,C,LCD,120135,"Casey, Anne",3.81,0,14,6,2,1,0,0,0,0,0,0,0,0,0
+30379,SOCW,400,Generalist SW Practice Methods,D,LCD,120135,"White-Gibson, Nancy L",3.96,0,23,0,0,1,0,0,0,0,0,0,0,0,0
+37404,SOCW,451,HBSE I: Human Development,B,LCD,120135,"Paceley, Megan S",3.76,0,24,0,0,4,0,0,0,0,0,0,0,1,0
+37405,SOCW,451,HBSE I: Human Development,C,LCD,120135,"Liao, Minli",3.88,2,15,7,1,0,0,0,0,0,0,0,0,0,0
 36760,SOCW,505,Behav and Cogn Methods for SW,0,LCD,120135,"Shea, Timothy M",,,,,,,,,,,,,,,
-34960,SOCW,525,Supervision/Staff Development,P,LCD,120135,"Ward, Thomas",3.82,0.0,11.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30385,SOCW,531,Practice in Org Settings,A,ONL,120135,"McDonald, Hellen G",3.95,0.0,20.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34960,SOCW,525,Supervision/Staff Development,P,LCD,120135,"Ward, Thomas",3.82,0,11,10,1,0,0,0,0,0,0,0,0,0,0
+30385,SOCW,531,Practice in Org Settings,A,ONL,120135,"McDonald, Hellen G",3.95,0,20,0,0,1,0,0,0,0,0,0,0,0,0
 30386,SOCW,531,Practice in Org Settings,B,ONL,120135,"Escobar-Sawicki, Christin",,,,,,,,,,,,,,,
 30388,SOCW,531,Practice in Org Settings,C,ONL,120135,"Maurer, Mary F",,,,,,,,,,,,,,,
 33208,SOCW,531,Practice in Org Settings,D,ONL,120135,"Bedient, Mary Lou",,,,,,,,,,,,,,,
@@ -518,7 +518,7 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 30424,SPAN,204,Practical Review of Spanish,2C,LCD,120135,"Davidson, Justin S",,,,,,,,,,,,,,,
 30427,SPAN,208,Oral Spanish,2F,LCD,120135,"Crespo del Rio, Claudia",,,,,,,,,,,,,,,
 34761,SPAN,254,Intro to Cultural Analysis,2C,LCD,120135,"DiFilippo, Emily J",,,,,,,,,,,,,,,
-31389,SPED,117,The Culture of Disability,A,ONL,120135,"Bentz, Johnell L",3.28,0.0,25.0,0.0,0.0,8.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,2.0,0.0
+31389,SPED,117,The Culture of Disability,A,ONL,120135,"Bentz, Johnell L",3.28,0,25,0,0,8,0,0,2,0,0,3,0,2,0
 31198,SPED,424,Formal Assessment in SPED,A,LCD,120135,"Taylor, Gregory G",,,,,,,,,,,,,,,
 37514,SPED,471,Learning Environments II,AC,LCD,120135,"Carey, Yvonne A",,,,,,,,,,,,,,,
 31216,SPED,517,Disability Issues in SPED,A,LCD,120135,"Light Shriner, Cheryl L",,,,,,,,,,,,,,,
@@ -527,22 +527,22 @@ CRN,Course Subject,Course Number,Course Title,Course Section,Sched Type,Term,Pri
 37539,SPED,591,Field Study & Thesis Seminar,A,ONL,120135,"Hood, Denice W",,,,,,,,,,,,,,,
 30451,STAT,100,Statistics,E1,LCD,120135,"Huang, Xichen",,,,,,,,,,,,,,,
 30452,STAT,100,Statistics,K1,LCD,120135,"Ye, Sangbeak",,,,,,,,,,,,,,,
-36918,STAT,100,Statistics,ONL,ONL,120135,"Nute, Michael G",3.1,10.0,30.0,9.0,7.0,17.0,4.0,1.0,6.0,0.0,3.0,3.0,2.0,5.0,2.0
-30460,STAT,400,Statistics and Probability I,AL1,LEC,120135,"Stepanov, Alexey G",3.11,10.0,15.0,8.0,5.0,9.0,7.0,6.0,4.0,1.0,0.0,2.0,1.0,2.0,1.0
-33498,STAT,410,Statistics and Probability II,G1G,LEC,120135,"Stepanov, Alexey G",3.31,8.0,12.0,5.0,3.0,3.0,3.0,0.0,3.0,2.0,0.0,2.0,0.0,1.0,5.0
-34304,STAT,440,Statistical Data Management,N1G,LEC,120135,"Unger, David",3.89,2.0,22.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-37298,STAT,448,Advanced Data Analysis,S1,LCD,120135,"Glosemeyer, Darren W",3.55,0.0,13.0,8.0,4.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36918,STAT,100,Statistics,ONL,ONL,120135,"Nute, Michael G",3.1,10,30,9,7,17,4,1,6,0,3,3,2,5,2
+30460,STAT,400,Statistics and Probability I,AL1,LEC,120135,"Stepanov, Alexey G",3.11,10,15,8,5,9,7,6,4,1,0,2,1,2,1
+33498,STAT,410,Statistics and Probability II,G1G,LEC,120135,"Stepanov, Alexey G",3.31,8,12,5,3,3,3,0,3,2,0,2,0,1,5
+34304,STAT,440,Statistical Data Management,N1G,LEC,120135,"Unger, David",3.89,2,22,8,2,0,0,0,0,0,0,0,0,0,1
+37298,STAT,448,Advanced Data Analysis,S1,LCD,120135,"Glosemeyer, Darren W",3.55,0,13,8,4,3,2,2,0,0,0,0,0,0,0
 34364,STAT,593,STAT Internship,INT,CNF,120135,"Douglas, Jeffrey A",,,,,,,,,,,,,,,
 33916,SWAH,201,Elementary Swahili I,C1,LEC,120135,"Lutomia, Anne N",,,,,,,,,,,,,,,
 33916,SWAH,201,Elementary Swahili I,C1,PKG,120135,"Lutomia, Anne N",,,,,,,,,,,,,,,
 33923,SWAH,202,Elementary Swahili II,C1,LCD,120135,"Lutomia, Anne N",,,,,,,,,,,,,,,
 33889,SWAH,403,Intermediate Swahili I,C1,PKG,120135,"Kiramba, Lydiah K",,,,,,,,,,,,,,,
 33890,SWAH,404,Intermediate Swahili II,C1,PKG,120135,"Kiramba, Lydiah K",,,,,,,,,,,,,,,
-30463,TAM,212,Introductory Dynamics,C,LEC,120135,"Anderson, Aaron T",3.18,1.0,8.0,7.0,9.0,7.0,3.0,1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0
-30464,TAM,251,Introductory Solid Mechanics,A,LCD,120135,"Saharan, Ankit",3.03,4.0,4.0,2.0,3.0,2.0,1.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0
-30468,TAM,335,Introductory Fluid Mechanics,AL1,LEC,120135,"Keane, Richard D",3.04,2.0,6.0,4.0,5.0,4.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0
-30486,THEA,101,Introduction to Theatre Arts,A,ONL,120135,"Morrissette, Jason W",3.61,15.0,17.0,4.0,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0
-32255,THEA,101,Introduction to Theatre Arts,B,ONL,120135,"Morrissette, Jason W",3.46,15.0,14.0,0.0,2.0,2.0,1.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,0.0
+30463,TAM,212,Introductory Dynamics,C,LEC,120135,"Anderson, Aaron T",3.18,1,8,7,9,7,3,1,0,1,2,0,0,1,0
+30464,TAM,251,Introductory Solid Mechanics,A,LCD,120135,"Saharan, Ankit",3.03,4,4,2,3,2,1,2,4,0,0,2,0,0,0
+30468,TAM,335,Introductory Fluid Mechanics,AL1,LEC,120135,"Keane, Richard D",3.04,2,6,4,5,4,3,3,5,0,0,0,0,1,0
+30486,THEA,101,Introduction to Theatre Arts,A,ONL,120135,"Morrissette, Jason W",3.61,15,17,4,1,2,0,1,2,0,0,0,1,1,0
+32255,THEA,101,Introduction to Theatre Arts,B,ONL,120135,"Morrissette, Jason W",3.46,15,14,0,2,2,1,0,4,1,0,1,0,1,0
 37474,TSM,100,Technical Systems in Agr,JGH,LEC,120135,"Harper, Joe G",,,,,,,,,,,,,,,
 37471,TSM,233,Metallurgy & Welding Process,JGH,LCD,120135,"Harper, Joe G",,,,,,,,,,,,,,,
 36945,UP,480,Sustainable Design Principles,0,ONL,120135,"Deal, Brian M",,,,,,,,,,,,,,,
